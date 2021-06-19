@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className='grid w-full divide-y-[1px] bg-gray-100 
         divide-gray-300 text-gray-500' >
             <div className='px-8 py-3' >
-                <p>United Kingdom</p>
+                <p>Romania</p>
             </div>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3
              gap-y-4 px-8 py-3 grid-flow-row-dense'  >
